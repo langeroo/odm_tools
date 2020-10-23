@@ -3,9 +3,8 @@ A collection of tools for improved Open Drone Map usage
 
 ## dji_video_to_jpgs
 Inputs 
-- DJI video files with captions
--- DJI_0123.MOV
--- DJI_0123.SRT
+- DJI_0123.MOV (DJI video)
+- DJI_0123.SRT (DJI video captions file)
 Output
 - folder of JPGs with GPS tags in EXIF data
 

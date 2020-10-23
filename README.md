@@ -5,6 +5,7 @@ A collection of tools for improved Open Drone Map usage
 Inputs 
 - DJI_0123.MOV (DJI video)
 - DJI_0123.SRT (DJI video captions file)
+
 Output
 - folder of JPGs with GPS tags in EXIF data
 
@@ -12,5 +13,6 @@ Output
 Inputs
 - A file with global locations of GCPs
 - All images to be processed
+
 Output
 - A standard gcp_list.txt with GCP pixel locations automatically entered

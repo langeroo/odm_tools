@@ -2,7 +2,7 @@
 When using AprilTags as Ground Control Points in Open Drone Map, this script will take supplied ground control point locations and fill in the pixel locations for autodetected tags.
 
 # Usage
-detect_gcp_apriltags.py path/to/image/folder path/to/gcp_locations.txt (output_file_name)
+python3 detect_gcp_apriltags.py path/to/image/folder path/to/gcp_locations.txt (output_file_name)
 
 # Input gcp_locations.txt file
 The input location file was configured to be as minimally different from the standard gcp_list.txt as possible.
